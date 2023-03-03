@@ -1,0 +1,4 @@
+discord-webhook
+psycopg2-binary
+discord.py
+json5
