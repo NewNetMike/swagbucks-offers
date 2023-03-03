@@ -1,0 +1,1 @@
+tester: python3 SwagbucksOffers.py
